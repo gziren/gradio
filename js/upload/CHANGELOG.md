@@ -1,5 +1,11 @@
 # @gradio/upload
 
+## 0.12.2-beta.0
+
+### Dependency updates
+
+- @gradio/client@1.5.0-beta.0
+
 ## 0.12.1
 
 ### Fixes

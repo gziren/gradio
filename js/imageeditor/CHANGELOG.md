@@ -1,5 +1,13 @@
 # @gradio/imageeditor
 
+## 0.8.2-beta.0
+
+### Dependency updates
+
+- @gradio/upload@0.12.2-beta.0
+- @gradio/client@1.5.0-beta.0
+- @gradio/image@0.13.2-beta.0
+
 ## 0.8.1
 
 ### Dependency updates
