@@ -1,5 +1,16 @@
 # website
 
+## 0.37.0
+
+### Features
+
+- [#8965](https://github.com/gradio-app/gradio/pull/8965) [`d30432e`](https://github.com/gradio-app/gradio/commit/d30432e9c6d4cc1e5cfd989a1a3ae4aba7e21290) - harden CI.  Thanks @pngwn!
+
+### Dependency updates
+
+- @gradio/code@0.8.2
+- @gradio/paramviewer@0.4.20
+
 ## 0.36.0
 
 ### Features

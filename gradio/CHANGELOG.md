@@ -1,5 +1,22 @@
 # gradio
 
+## 4.41.0
+
+### Features
+
+- [#8965](https://github.com/gradio-app/gradio/pull/8965) [`d30432e`](https://github.com/gradio-app/gradio/commit/d30432e9c6d4cc1e5cfd989a1a3ae4aba7e21290) - harden CI.  Thanks @pngwn!
+- [#8972](https://github.com/gradio-app/gradio/pull/8972) [`d4c503a`](https://github.com/gradio-app/gradio/commit/d4c503a471cfd202c56fbddd99d5da431a4b7478) - Type hint Correction.  Thanks @sthemeow!
+- [#8964](https://github.com/gradio-app/gradio/pull/8964) [`bf6bbd9`](https://github.com/gradio-app/gradio/commit/bf6bbd971acddbf78f03bea431ed7d1e0003ccf9) - Add min/max-imize button to gr.Image and gr.Gallery.  Thanks @hannahblair!
+- [#8975](https://github.com/gradio-app/gradio/pull/8975) [`3feea64`](https://github.com/gradio-app/gradio/commit/3feea64a65688d710184604bb44636d513bcc36a) - Prevent overflow in Model3D.  Thanks @hannahblair!
+- [#8967](https://github.com/gradio-app/gradio/pull/8967) [`2f89877`](https://github.com/gradio-app/gradio/commit/2f89877ac1ef9eab46115187ffe179d5da060edd) - Set `content_disposition_type` and `media_type` on downloaded files.  Thanks @aliabid94!
+- [#8958](https://github.com/gradio-app/gradio/pull/8958) [`4ff91a3`](https://github.com/gradio-app/gradio/commit/4ff91a3e6538872c529b604d36120dd946dc3282) - Fixes some docstrings, particularly for the `show_progress` parameter.  Thanks @abidlabs!
+
+### Fixes
+
+- [#8847](https://github.com/gradio-app/gradio/pull/8847) [`4d8a473`](https://github.com/gradio-app/gradio/commit/4d8a473632e388a312aee5c705b3c1f79853441b) - fix: wrong named param check for js client.  Thanks @freddyaboulton!
+- [#8962](https://github.com/gradio-app/gradio/pull/8962) [`c68eefb`](https://github.com/gradio-app/gradio/commit/c68eefba6c18ba9fda98220fb273726522dc3340) - fix: httpx timeouts cause gradio to fail during launch.  Thanks @rsamborski!
+- [#8847](https://github.com/gradio-app/gradio/pull/8847) [`4d8a473`](https://github.com/gradio-app/gradio/commit/4d8a473632e388a312aee5c705b3c1f79853441b) - Refactor Chatinterface to use Chatbot instead of gr.State variables.  Thanks @freddyaboulton!
+
 ## 4.40.0
 
 ### Features
